@@ -1,0 +1,35 @@
+.header{
+	background-color: #4CAF50;
+}
+.content{
+	width: 100%;
+	background-color: aqua;
+	border-width:2px;
+	border-color: black;
+}
+.login{
+	padding-left:40%;
+}
+#topheader a{
+	font-weight:500;
+	color:#4CAF50;
+}
+.container-fluid{
+	padding-left: 0;
+	padding-right: 0;
+}
+nav ul li{
+	font-weight:600;
+	font-size: 1.3rem;
+}
+.footer{
+	background-color:#616161;
+
+}
+a{
+	color:white;
+
+}
+.navbar-toggler-icon{
+	color:white;
+}
